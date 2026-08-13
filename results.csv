@@ -1,3 +1,4 @@
+Average Response Time (Standard); Number Of Successful Requests (Standard);;Average Response Time (TCP Reordering);Number Of Successful Requests (TCP Reordering)
 264;4991;;59;4987
 259;4990;;58;4988
 259;4992;;56;4992
@@ -48,5 +49,3 @@
 259;4984;;63;4985
 259;4989;;52;4990
 258;4988;;55;4994
-;;;;
-263,76;4989,68;;56,8;4989,08
